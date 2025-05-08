@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Monster Energy",
+        "barcode": "101",
+        "price": 227.99
+    },
+    {
+        "name": "Soyjoy",
+        "barcode": "102",
+        "price": 65.0
+    },
+    {
+        "name": "Hamburger",
+        "barcode": "103",
+        "price": 160.99
+    },
+    {
+        "name": "Cheesburger",
+        "barcode": "104",
+        "price": 123.99
+    },
+    {
+        "name": "Big Mac",
+        "barcode": "105",
+        "price": 180.0
+    },
+    {
+        "name": "Whopper",
+        "barcode": "106",
+        "price": 150.0
+    },
+    {
+        "name": "CheeeeeseNuggets",
+        "barcode": "107",
+        "price" : 118.0
+    }
+
+]

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/wayflayer/developer/cpp/cashier_workstation/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/wayflayer/developer/cpp/cashier_workstation/include -g -std=c++17 -o CMakeFiles/cashier_workstation.dir/src/cash_register.cpp.o -c /home/wayflayer/developer/cpp/cashier_workstation/src/cash_register.cpp",
+  "file": "/home/wayflayer/developer/cpp/cashier_workstation/src/cash_register.cpp",
+  "output": "CMakeFiles/cashier_workstation.dir/src/cash_register.cpp.o"
+},
+{
+  "directory": "/home/wayflayer/developer/cpp/cashier_workstation/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/wayflayer/developer/cpp/cashier_workstation/include -g -std=c++17 -o CMakeFiles/cashier_workstation.dir/src/cashier_shift.cpp.o -c /home/wayflayer/developer/cpp/cashier_workstation/src/cashier_shift.cpp",
+  "file": "/home/wayflayer/developer/cpp/cashier_workstation/src/cashier_shift.cpp",
+  "output": "CMakeFiles/cashier_workstation.dir/src/cashier_shift.cpp.o"
+},
+{
+  "directory": "/home/wayflayer/developer/cpp/cashier_workstation/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/wayflayer/developer/cpp/cashier_workstation/include -g -std=c++17 -o CMakeFiles/cashier_workstation.dir/src/json_utils.cpp.o -c /home/wayflayer/developer/cpp/cashier_workstation/src/json_utils.cpp",
+  "file": "/home/wayflayer/developer/cpp/cashier_workstation/src/json_utils.cpp",
+  "output": "CMakeFiles/cashier_workstation.dir/src/json_utils.cpp.o"
+},
+{
+  "directory": "/home/wayflayer/developer/cpp/cashier_workstation/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/wayflayer/developer/cpp/cashier_workstation/include -g -std=c++17 -o CMakeFiles/cashier_workstation.dir/src/main.cpp.o -c /home/wayflayer/developer/cpp/cashier_workstation/src/main.cpp",
+  "file": "/home/wayflayer/developer/cpp/cashier_workstation/src/main.cpp",
+  "output": "CMakeFiles/cashier_workstation.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/wayflayer/developer/cpp/cashier_workstation/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/wayflayer/developer/cpp/cashier_workstation/include -g -std=c++17 -o CMakeFiles/cashier_workstation.dir/src/product.cpp.o -c /home/wayflayer/developer/cpp/cashier_workstation/src/product.cpp",
+  "file": "/home/wayflayer/developer/cpp/cashier_workstation/src/product.cpp",
+  "output": "CMakeFiles/cashier_workstation.dir/src/product.cpp.o"
+},
+{
+  "directory": "/home/wayflayer/developer/cpp/cashier_workstation/build",
+  "command": "/usr/bin/g++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -I/home/wayflayer/developer/cpp/cashier_workstation/include -g -std=c++17 -o CMakeFiles/cashier_workstation.dir/src/receipt.cpp.o -c /home/wayflayer/developer/cpp/cashier_workstation/src/receipt.cpp",
+  "file": "/home/wayflayer/developer/cpp/cashier_workstation/src/receipt.cpp",
+  "output": "CMakeFiles/cashier_workstation.dir/src/receipt.cpp.o"
+}
+]
