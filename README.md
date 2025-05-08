@@ -1,1 +1,25 @@
 # cashier_workstation
+
+
+Тестовое задание - рабочее место кассира
+
+Работа с программой
+
+Интерфейс:
+  open <cashier_name> <initial_cash> - Open a new shift
+  close - Close current shift
+  new - Start a new receipt
+  add <barcode/name> <quantity> - Add product to receipt
+  pay cash <amount> - Pay with cash
+  pay card - Pay with card
+  print - Print current receipt
+  help - Show this help
+  exit - Exit the program
+
+
+для открытия смены требуется вызвать Open с аргументами "Имя кассира" "сумма на начало смены"
+далее для формирования каждого чего нужно вызывать new и после для добавлени товаров использовать add с аргументами "код товара/имя товара" "количество"
+сумма считается автоматически, для оплаты используется pay cash с аргументом "сумма" и pay card.
+
+для того чтобы закрыть информацию о коммандах используется help
+для закрытия программы требуется сначала закрыть смену через close, после чего мы можем вызвать exit
